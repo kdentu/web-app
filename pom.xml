@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>JOMACS Snapshot Nexus Repository </name>
-	      <url>http://16.16.211.236:8081/repository/nexus-repo-snap/
+	      <url>http://16.16.211.236:8081/repository/nexus-repo-snap/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
