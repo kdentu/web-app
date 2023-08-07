@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to JOMACS IT SOLUTIONS INC.</h1>
-<h1 align="center">We are a leading provider of technology solutions for companies and individuals like shabakunte. We specialize in web development, software engineering, DevOps engineering, data science and corporate training and workshops. Our team of experts is dedicated to delivering the highest quality services that are tailored to meet the unique needs of each of our clients. With our innovative solutions and commitment to excellence, we help our clients to achieve their goals and stay ahead of the competition.You will love our service i will become a devops Geek.</h1>
+<h1 align="center">We are a leading provider of technology solutions for companies and individuals. We specialize in web development, software engineering, DevOps engineering, data science and corporate training and workshops.Join our vibrant community of like-minded learners and industry experts as we delve into the core principles of DevOps, Agile methodologies, cloud computing, automation, and more. With a focus on real-world applications and practical projects, you'll gain invaluable experience that directly translates to your professional journey. Our team of experts is dedicated to delivering the highest quality services that are tailored to meet the unique needs of each of our clients. With our innovative solutions and commitment to excellence, we help our clients to achieve their goals and stay ahead of the competition.You will love our service i will become a devops Geek.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
